@@ -1,2 +1,2 @@
 # auth_node
-Link Video : 
+Link Video : menyusul masid ada error di react
