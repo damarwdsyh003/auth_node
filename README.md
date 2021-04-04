@@ -1,2 +1,2 @@
 # auth_node
-Link Video : menyusul masid ada error di react
+Link Video : menyusul masih ada error di react
