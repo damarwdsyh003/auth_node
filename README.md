@@ -1,2 +1,2 @@
-# auth_node
-Link Video : menyusul masih ada error di react
+
+# Link Video : https://drive.google.com/drive/u/1/folders/1k_AylUGRnBAT_pVVgSFA4BrjP7rbxYAC
